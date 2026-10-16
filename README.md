@@ -52,10 +52,10 @@ The notebook follows a standard supervised learning pipeline:
 
 The baseline model (**LogisticRegression**) achieved the following performance on the held-out test set:
 
-- **Accuracy**: **[ВСТАВЬ ЗНАЧЕНИЕ, НАПРИМЕР: 0.78]**
-- **Precision**: **[ВСТАВЬ ЗНАЧЕНИЕ ИЛИ НАПИШИ: see notebook]**
-- **Recall**: **[ВСТАВЬ ЗНАЧЕНИЕ ИЛИ НАПИШИ: see notebook]**
-- **F1-score**: **[ВСТАВЬ ЗНАЧЕНИЕ ИЛИ НАПИШИ: see notebook]**
+- **Accuracy**: ****
+- **Precision**: ****
+- **Recall**: ****
+- **F1-score**: ****
 
 > Note: These metrics are based on a single train/test split with `random_state=100`. For more robust estimates, cross-validation can be added in future iterations.
 
